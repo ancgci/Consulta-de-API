@@ -1,7 +1,5 @@
 
-# Simulacao REST API NodeJS   -  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
-
-## Simulacao REST API NodeJS  
+# Simulacao REST API NodeJS  
 
 Atividade prática de simulação para uso do REST API de cunho didático em aprendizado continuo referente ao curso de Analista de Teste de Software pela [Ultima School](https://ultima.school/courses/) com base no modelo do tutor [Marcos Franco](https://github.com/carloseduardo1984/)
 
