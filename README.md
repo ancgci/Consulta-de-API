@@ -1,7 +1,7 @@
 
 # Simulacao REST API NodeJS  
 
-Atividade prática de simulação para uso do REST API de cunho didático em aprendizado continuo referente ao curso de Analista de Teste de Software pela [Ultima School](https://ultima.school/courses/) com base no modelo do tutor [Marcos Franco](https://github.com/carloseduardo1984/)
+Atividade prática de simulação para uso do REST API de cunho didático em aprendizado continuo referente ao curso de Analista de Teste de Software pela [Ultima School](https://ultima.school/courses/) com base no modelo do tutor [Carlos Eduardo](https://github.com/carloseduardo1984/)
 
 ## Você vai Precisar
 
