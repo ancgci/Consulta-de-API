@@ -1,23 +1,21 @@
-<<<<<<< HEAD
+
 # Simulacao REST API NodeJS   -  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
+## Simulacao REST API NodeJS  
 
+Atividade prática de simulação para uso do REST API de cunho didático em aprendizado continuo referente ao curso de Analista de Teste de Software pela [Ultima School](https://ultima.school/courses/) com base no modelo do tutor [Marcos Franco](https://github.com/carloseduardo1984/)
 
-Itens necessários:
-- Acesso a internet
--VsCode instalado
--Comandos prompt : cd , dir 
+## Você vai Precisar
 
-
-Baixe a pasta toda e extraia em seu computador
+- VsCode 
+- Node
 
 ## Começando
 
-### 1. Crie e Clone este repositório
-
-* Abra o VSCode 
-* Abra a pasta extraída do github no VsCode (no link de referencia acima)
-* Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
+- Baixe a pasta toda e extraia em seu computador;
+- Abra o VSCode ;
+- Abra a pasta extraída do github no VsCode;
+- Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
 
 * > `$git init`
 * > `$git add .`
@@ -42,42 +40,29 @@ Baixe a pasta toda e extraia em seu computador
 
   Comando> `json-server --watch database.json`
 
-## Acessando servidor local
-
+# Acessando servidor local
 
 - O servidor será executado em `http://localhost:3000`. Só abrir qualquer browser e digitar que será aberta a página inicial do API.
+- Testar com o endpoint público: `http://localhost:3000/products` (método GET).
 
-Você pode testar com o endpoint público: `http://localhost:3000/products` (método GET).
+# Manipulando os dados
 
-## Manipulando os dados
-Com o Postment ou qualquer ferramenta de gestão de comunicação você pode alterar os dados de API, ou criar novas informações.
-
-Para isso só utilizar os comandos abaixo.
-
-
-#### Produtos
+Com o Postment ou qualquer ferramenta de gestão de comunicação você pode alterar os dados de API, ou criar novas informações. Para isso só utilizar os comandos abaixo.
 
 - Obter produtos: GET /produtos
 - Obter produto por ID: GET /products/:id
-
-#### Do utilizador
-
 - Obter usuários: GET /users
 - Obter usuário por ID: GET /users/:id
 - Criar usuário: POST /users
 - Atualizar usuário (informações completas): PUT /users/:id
 - Atualizar usuário (informações parciais) PATCH /users/:id
-
-#### Produtos
 - Criar produto: POST /produtos
 - Atualizar produto (informações completas): PUT /products/:id
 - Atualizar produto (informações parciais) PATCH /products/:id
 
 
-##### Exemplos de Filtros
-http://localhost:3000/users/
-http://localhost:3000/users/?status=false
-=======
-# Teste-de-API
-Tarefa de cunho didático no aprendizado de API REST no curso de Analista de Teste pela Ultima School
->>>>>>> 70c7ef1743f59079797dcb32337c5a2db35a86e3
+# Exemplos de Filtros
+
+- http://localhost:3000/users/
+- http://localhost:3000/users/?status=false 
+
